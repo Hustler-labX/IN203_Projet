@@ -1,3 +1,4 @@
+//simulation_sync_affiche_mpi.cpp
 #include <cstdlib>
 #include <random>
 #include <iostream>
