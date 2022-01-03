@@ -33,7 +33,8 @@ void màjStatistique( épidémie::Grille& grille, std::vector<épidémie::Indivi
                 statistiques[index].nombre_contaminant_seulement_grippé += 1;
             }
         }
-        else
+       
+	else
         {
             if (personne.aAgentPathogèneContagieux())
             {
