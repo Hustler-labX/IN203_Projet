@@ -1,0 +1,3 @@
+//compiler mpi avec g++-10
+ajouter les CFLAGS  et LDFLAGES dans le Make_linux.inc
+CXXFLAGS +=$(mpic++
