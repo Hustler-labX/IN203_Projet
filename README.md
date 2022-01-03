@@ -15,7 +15,7 @@ J'ai essayé de transformer le projet (en code séquentiel) en plusieurs version
 
 À chaque compilation, on doit faire des changements en ficher Makefile : soit on change le nom de ficher à compiler (selon la version qu'on souhait avoir) et les include de ficher (Si on travaille avec OpenMP, ça sera avec Make_linux.inc sinon (avec MPI) on a le ficher Make_linux2.inc.
 
-
+Voir ficher " rapport.opt " pour avoir les résultats.
 
 
 
