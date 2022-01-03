@@ -1,4 +1,4 @@
-
+//simulation_async_omp.cpp
 // make simulation.exe && OMP_NUM_THREADS=2 ./simulation.exe 
 #include <cstdlib>
 #include <random>
