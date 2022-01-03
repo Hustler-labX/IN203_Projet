@@ -46,6 +46,7 @@ void màjStatistique( épidémie::Grille& grille, std::vector<épidémie::Indivi
 //void afficheSimulation(sdl2::window& écran, épidémie::Grille const& grille, std::size_t jour)
 
 void afficheSimulation(sdl2::window& écran, int largeur_grille,int hauteur_grille,    std::vector<épidémie::Grille::StatistiqueParCase>  statistiques ,int jour)
+
 {
 
     auto [largeur_écran,hauteur_écran] = écran.dimensions();
